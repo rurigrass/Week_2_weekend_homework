@@ -4,4 +4,8 @@ require_relative ("../room.rb")
 
 class TestGuest < MiniTest::Test
 
-  
+  def setup
+
+  end
+
+end
